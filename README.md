@@ -20,9 +20,9 @@ Memory in `local-env.sh` set to `"-Xmx128G"`
 
 ### Configurations:
 
-Train and evaluation without conservation: `config/train-deafult.groovy`
+Train without conservation: `config/train-deafult.groovy`
 
-Train and evaluation with conservation: `config/train-conservation.groovy`
+Train with conservation: `config/train-conservation.groovy`
 
 [Download Configuration files](https://github.com/AndreaSoltes/Experiment_CV/files/8879723/configurations.zip)
 
